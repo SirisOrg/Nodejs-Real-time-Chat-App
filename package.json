@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "sonar": "node sonar-project.js"
   },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "sonarqube-scanner": "^2.7.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/extwiii/Nodejs-Real-time-Chat-App-.git"
